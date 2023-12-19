@@ -25,6 +25,8 @@ print("Eigen values are {} and Eigen Vectors are {}".format(values,vector))
 ```
 
 ## Output:
+
+
 ![Alt text](<Screenshot 2023-12-12 190436.png>)
 
 
